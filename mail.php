@@ -97,7 +97,7 @@ echo '
             <h1>Message Sent Successfully!</h1>
             <p>Thank you for contacting us. We will get back to you as soon as possible!</p>
             <div class="button">
-            <a href="index.html" class="btn">Back to Homepage</a>
+            <a href="./" class="btn">Back to Homepage</a>
             </div>
         </div>
         </div>
